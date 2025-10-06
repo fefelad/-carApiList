@@ -1,0 +1,11 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.wrapper_input {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

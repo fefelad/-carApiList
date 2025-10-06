@@ -1,0 +1,22 @@
+.wrapper_leftbar {
+    border-right: 1px solid gray;
+    height: 100%;
+    padding-right: 20px;
+}
+
+.btn_sort {
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 50px;
+    gap: 30px;
+}
+
+.btn_sort_yers {
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 50px;
+    gap: 30px;
+    margin-bottom: 30px;
+}

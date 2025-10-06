@@ -1,0 +1,6 @@
+.wrapper_rendercar {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+}

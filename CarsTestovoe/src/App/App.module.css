@@ -1,0 +1,33 @@
+:root {
+  --primary-dark: #000000;
+  /* Основной фон */
+  --accent: #0fcef0;
+  /* Акцентный цвет (кнопки, выделение) */
+  --accent-hover: #0ab9d8;
+  /* Акцент при наведении */
+  --text-primary: #e6e6e6;
+  /* Основной текст */
+  --text-secondary: #b3b3b3;
+  /* Вторичный текст */
+  --success: #10b981;
+  /* Успех (сохранение) */
+  --warning: #f59e0b;
+  /* Предупреждение (редактирование) */
+  --error: #ef4444;
+  /* Ошибка (удаление) */
+
+
+  --font-primary: 'Montserrat', sans-serif;
+
+  --font-light: 300;
+  --font-normal: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+
+}
+
+.wrapper_app {
+  background-color: var(--primary-dark);
+
+}
